@@ -6,6 +6,7 @@
 #ファイル名：
 #           gray.png  ：画像を二次元配列にするためにグレーアウトさせたもの
 #           result.png：gray.pngを畳み込んだあとの結果 
+#           out.gif   ：変化を見れるgif
 #
 
 from PIL import Image
